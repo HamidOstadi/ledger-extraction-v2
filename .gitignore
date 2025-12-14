@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (raw scans, OCR outputs, generated files)
+data/raw/
+data/interim/
+data/processed/
+
+# OS
+.DS_Store
+
+# PDFs / images
+*.pdf
+*.png

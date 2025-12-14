@@ -1,0 +1,8 @@
+jupyter
+pandas
+python-dotenv
+openai
+openai
+pdfplumber
+pandas
+openpyxl
