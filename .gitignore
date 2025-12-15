@@ -15,7 +15,6 @@ venv/
 # Data (raw scans, OCR outputs, generated files)
 data/raw/
 data/interim/
-data/processed/
 
 # OS
 .DS_Store
